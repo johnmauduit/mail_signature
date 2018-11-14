@@ -4,6 +4,8 @@ PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
 N:Mauduit;John;;;
 FN:John Mauduit
 ORG:Développeur web;
+EMAIL;type=INTERNET;type=HOME;type=pref:johnmauduit@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+33 6 88 24 17 92
 item1.URL;type=pref:https://johnmauduit.github.io/portfolio
 item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/7QA4UGhvdG9zaG9wIDMu
